@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quzinho</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q1">Jakub Kozłowski zrobił projekt z Systemów mobilnych w 2020 roku</string>
+    <string name="q2">Na Piazza Navona w Rzymie znajdują się 3 fontanny</string>
+    <string name="q3">Nicea jest fajna</string>
+    <string name="q4">Adam Małysz to wielki Polak</string>
+    <string name="q5">Lepiej późno niż wcale</string>
+    <string name="correct_answer">Dobrze</string>
+    <string name="wrong_answer">Źle</string>
+</resources>
